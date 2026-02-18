@@ -1,4 +1,4 @@
-Hello (ENG-version)
+:flag_us: Hello (ENG-version)
 
 👋 Hi, I’m Dania. Nice to meet you!
 
@@ -8,17 +8,17 @@ Hello (ENG-version)
 
 💞️ I’m looking to collaborate on software programms
 
-📫 How to reach me: by e-mail daniasadallah@gmail.com / daniasadallah05@gmail.com
+📫 Contact: daniasadallah@gmail.com / daniasadallah05@gmail.com
 
 😄 Pronouns: She/her
 
-⚡ Fun fact: I love to play games online, one of my favorite game is League of Legends.
+⚡ Fun fact: I love to play games online, one of my favorite game is Undertale and Deltarune. Nowadays, I also enjoy games that involve programming, like The Farmer Was Replaced.
 
 💻 My LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Olá (PT-Br-versão)
+:flag_br: Olá (PT-Br-versão)
 
 👋 Olá! Eu sou a Dania! É um prazer conhece-lô!
 
@@ -32,7 +32,7 @@ Olá (PT-Br-versão)
 
 😄 Pronomes: Ela/dela
 
-⚡ Curiosidade: Eu amo jogos online, o meu favorito é League of Legends.
+⚡ Curiosidade: Eu amo jogos online, o meu favorito é Undertale e Deltarune. Atualmente estou gostando também de jogos que envolvam programação como o The Farmer Was Replaced
 
 💻 Meu LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
 
