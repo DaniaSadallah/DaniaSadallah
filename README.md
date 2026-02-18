@@ -1,4 +1,4 @@
-:flag_us: Hello (ENG-version)
+🇺🇸 Hello (ENG-version)
 
 👋 Hi, I’m Dania. Nice to meet you!
 
@@ -18,7 +18,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-:flag_br: Olá (PT-Br-versão)
+🇧🇷 Olá (PT-Br-versão)
 
 👋 Olá! Eu sou a Dania! É um prazer conhece-lô!
 
