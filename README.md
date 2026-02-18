@@ -8,15 +8,13 @@ Hello (ENG-version)
 
 💞️ I’m looking to collaborate on software programms
 
-📫 How to reach me: by e-mail daniasadallah@gmail.com
+📫 How to reach me: by e-mail daniasadallah@gmail.com / daniasadallah05@gmail.com
 
 😄 Pronouns: She/her
 
 ⚡ Fun fact: I love to play games online, one of my favorite game is League of Legends.
 
-My LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
-
-My e-mail address: daniasadallah@gmail.com / daniasadallah05@gmail.com
+💻 My LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -30,12 +28,12 @@ Olá (PT-Br-versão)
 
 💞️ Eu quero colaborar com programas de software
 
-📫 Contato: daniasadallah@gmail.com 
+📫 Contato: daniasadallah@gmail.com / daniasadallah05@gmail.com
 
 😄 Pronomes: Ela/dela
 
 ⚡ Curiosidade: Eu amo jogos online, o meu favorito é League of Legends.
 
-Meu LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
+💻 Meu LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
 
-Meu e-mail: daniasadallah@gmail.com / daniasadallah05@gmail.com
+
