@@ -17,6 +17,8 @@ Hello (ENG-version)
 My LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
 My e-mail address: daniasadallah@gmail.com / daniasadallah05@gmail.com
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 Olá (PT-Br-versão)
 
 👋 Olá! Eu sou a Dania! É um prazer conhece-lô!
