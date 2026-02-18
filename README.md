@@ -15,6 +15,7 @@ Hello (ENG-version)
 ⚡ Fun fact: I love to play games online, one of my favorite game is League of Legends.
 
 My LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
+
 My e-mail address: daniasadallah@gmail.com / daniasadallah05@gmail.com
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -36,4 +37,5 @@ Olá (PT-Br-versão)
 ⚡ Curiosidade: Eu amo jogos online, o meu favorito é League of Legends.
 
 Meu LinkedIn: linkedin.com/in/dania-sadallah-kader-857229352/
+
 Meu e-mail: daniasadallah@gmail.com / daniasadallah05@gmail.com
