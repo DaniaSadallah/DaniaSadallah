@@ -1,9 +1,15 @@
 <hr>
+
 <div align="center">
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=consolas&weight=500&size=35&duration=2500&pause=500&center=true&width=550&color=CDA4DE&lines=%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E+Olá+pessoal.;Eu+sou+a+Dania+Sadallah!;Bem+vindo+ao+meu+perfil+%E2%97%95%E1%B4%A5%E2%97%95%CA%8B" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Consolas&size=32&duration=2500&pause=800&center=true&width=600&color=CDA4DE&lines=Olá+pessoal!;Eu+sou+Dania+Sadallah;Bem-vindo+ao+meu+perfil+✨" 
+      alt="Typing SVG"
+    />
   </a>
-  <hr>
+</div>
+
+<hr>
   
 </div>
 
