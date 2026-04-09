@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<h2>💻 Tecnologias 💻</h2>
+<h2>💻 Tecnologias e ferramentas </h2>
   
 </div>
 <div align="center">
