@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<h2>💻 Stack Tecnológico </h2>
+<h2>💻 Tecnologias 💻</h2>
   
 </div>
 <div align="center">
