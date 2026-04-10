@@ -22,7 +22,7 @@
   <h3>Banco de dados</h3>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   
-  <h3>Ferramentas e outros</h3>
+  <h3>Outras ferramentas</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </div>
  
